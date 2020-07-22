@@ -1,0 +1,1 @@
+".\Windows Arduino\arduino.exe" .\Firmware\Marlin\Marlin.ino
